@@ -9,8 +9,8 @@ module.exports = {
     'http://localhost:4300',
     'http://bytecodetechnologies.co.in',
     'http://bytecodetechnologies.co.in/',
-    'http://bytecodetechnologies.co.in/jive',
-    'http://bytecodetechnologies.co.in/jive/'
+    'http://bytecodetechnologies.co.in/primeshare',
+    'http://bytecodetechnologies.co.in/primeshare/'
   ],
   stripe:{
     apiKey: 'sk_test_mRU4BQ2S5rVyPHLYYKkpdx01' // client account
